@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Grace",
+          "alamat": "Deli Serdang",
+          "umur": 22,
+          "nohp": "081111111111"
+        },
+        {
+          "id": 2,
+          "nama": "Evanggelisa",
+          "alamat": "Deli Serdang",
+          "umur": 23,
+          "nohp": "081111111111"
+        },
+        {
+          "id": 3,
+          "nama": "Tambunan",
+          "alamat": "Deli Serdang",
+          "umur": 24,
+          "nohp": "081111111111"
+        }
+      ]
+}
